@@ -269,6 +269,3 @@ Répertoire du travail collaboratif sur le module 3
 | **29.04 - 16.06** | Développement (C# + Codesys) + Documentation  |
 | **16.06 - 15.06** | Finalisation + Préparation présentation       |
 
----
-
-Avec cette todo list, vous avez une **vision claire** des étapes à suivre et des livrables à produire. Bonne chance pour votre projet ! 🚀
